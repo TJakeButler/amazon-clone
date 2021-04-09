@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Amazon Clone
 
 Building an Amazon E-Commerce Clone
 
