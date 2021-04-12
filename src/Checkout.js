@@ -4,6 +4,7 @@ import Subtotal  from "./Subtotal";
 
 
 
+
 function Checkout() {
     return (
         <div className='checkout'>
