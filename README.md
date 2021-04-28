@@ -1,4 +1,4 @@
 # Amazon Clone
 
-Building an Amazon E-Commerce Clone
+Amazon Clone built using React.js 
 
